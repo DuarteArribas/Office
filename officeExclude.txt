@@ -1,0 +1,20 @@
+<Configuration>
+    <Add SourcePath="" OfficeClientEdition="64">
+        <Product ID="O365ProPlusRetail">
+            <Language ID="en-us" />
+            <ExcludeApp ID="Access" />
+            <ExcludeApp ID="Excel" />
+            <ExcludeApp ID="Groove" />
+            <ExcludeApp ID="InfoPath" />
+            <ExcludeApp ID="Lync" />
+            <ExcludeApp ID="OneNote" />
+            <ExcludeApp ID="PowerPoint" />
+            <ExcludeApp ID="Project" />
+            <ExcludeApp ID="Publisher" />
+            <ExcludeApp ID="SharePointDesigner" />
+            <ExcludeApp ID="Visio" />
+            <ExcludeApp ID="Word" />
+            <ExcludeApp ID="Outlook" />
+        </Product>
+    </Add>
+</Configuration>
